@@ -1,6 +1,48 @@
 #+TITLE Unknown
 
-I didn’t think I would ever fall in love again. I know that everyone says that after a heartbreak, but the difference is that I’m not heartbroken. I’m not cynical, or pessimistic, or sad. I’m just someone who once felt something bigger than anything else I’d ever felt and when I lost it, 
-I honestly believed I would never have that again. But... I was 22 then and life is long. And I’m feeling things right now that I haven’t in a long, long time. 
+#+PROMPT 
+I didn’t think I would ever fall in love again. I know that everyone says that after a heartbreak, but the difference is that I’m not heartbroken. I’m
+not cynical, or pessimistic, or sad. I’m just someone who once felt something bigger than anything else I’d ever felt and when I lost it, I honestly
+believed I would never have that again. But... I was 22 then and life is long. And I’m feeling things right now that I haven’t in a long, long time.
 
-Rest of the story
+#+STORY 
+
+I preferred sitting in the last row, almost always, except on occasions when the professor would take issue with the folks hiding in those nether
+regions and would promptly request them to occupy the vacant ones in the front. I never understood the reason behind it, perhaps they would think that
+us people in the back were always upto some mischief of the disruptive kind, or may be they thought their words and ideas would fall to no effect
+beyond the realms of the front row seats. But then again, when I look back now, any conspiracy of any nature was almost always seeded from these rows,
+whether it be the plan to collectively bunk all the post-lunch classes on Friday, or the plot to claim attendance on behalf of an absentee student.
+However, I had my own odd reasons of sitting as far as possible from the professors. 
+
+I loved to draw. I would draw pencil sketches, enacting storylines like a comic strip of my own. And somehow, sitting in that classroom did wonders to
+my palette of imagination, as I used to come up with all sorts of stories panning the various walks of life. Some day, in the chemistry lecture, I
+would create this mystic village on the edge of the world which would have plantations of bank notes, while sometimes in the mathematics lecture it
+would be a sketch of our hostel mess during the peak hours. So, in a sense, my sketches ranged from the real to the surreal, their narrative mostly
+defined by the mood at that time or perhaps something that would have captured my imagination. There was no order or process to what I would sketch on
+any given day during any of those classes. Most of the pages of my notebooks, whose ideal purpose would have been to take down notes from the
+chalkboard, were filled with drawings ranging from humanly decipherable to ones which I even couldn't make any sense of. You could even say, it was a
+pure stream of conciousness when I put the pencil on the paper, my ears forever yearning for that dull rasping noise when the tip would graze the
+sheets. 
+
+I had read a whole lot of comic books in my childhood, and perhaps that might have had some effect on me, but even apart from that drawing was largely
+the only tool at my disposal during all those years wherein I could channel evrything inside into something substantial. I remember my parents proudly
+displaying some of the percievably good ones on the walls of the living room for all the guests to see, and how they loved to boast about how their
+son could sketch quite well without much of a training. But that was that. And when it was time to get serious about life, they, along with my
+teachers and neighbors,somwhow felt I would make a better engineer than an artist. I didn't understand the world enough yet to have any opinion, and may be
+even I didn't take myself seriously as an artist of any sort.
+
+So here I was, yet again, seated in my marked position where there was the wall to my left and several rows of seats decending beneath, ending at the
+narrow passgeway that separated the students' territory from that of the faculty. Beyond the narrow passageway, would be the desk, chair and a
+lectern on a dias with the chalkboard in the back, devoid of any signifance unless occupied by one of the professors. To me, all of it, seemed less of
+a classroom and more of a setting like a medieval king's court wherein the monarch would pass down orders to those gathered in front of him. Come to
+think of it, the lecture hall did seem like a cross section cut away from the ancient roman amphitheatre, except here the seat of power was reversed.
+
+Anyways it was 8:05 am, and Professor Pandey was due any moment. I was in early, as usual, for the seats in the back are often in high demand for
+some specific faculty members, Mr. Pandey being one of them. As soon as he walked in, a hush descended over the classroom, and the chaos which hung
+heavy in the air, a few moments ago, had slipped into oblivion.
+
+He walked upto his desk in the middle of the dias, stationed his seemingly heavy bag upon it and then put both his hands on his hips and surveyed the
+room thoroughly, with his eyes looking over the reading glasses, hung way down the bridge of his nose. He seemed to mildly shake his head and gave out
+a long sigh, as if contemplating if this was the life he had envisioned. Then, with almost a hint of despair, he fished out the attendance register
+from his bag and set upon the tedious task of recording the student presence, in the physical sense. 
+ 
